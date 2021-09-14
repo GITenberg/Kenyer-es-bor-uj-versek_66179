@@ -1,0 +1,30 @@
+_repo: Kenyer-es-bor-uj-versek_66179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kosztolányi, Dezső
+    aliases:
+    - Kosztolanyi, Desire
+    - Kosztolányi, Dezso
+    - Kosztolanyi, Dezso
+    - Kostolani, Dezhe
+    - Kosztolányi, Désiré
+    birthdate: 1885
+    deathdate: 1936
+    gutenberg_agent_id: '40807'
+    url: http://www.gutenberg.org/2009/agents/40807
+    wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66179'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian poetry'
+- !lcc 'PH'
+- GITenberg
+title: 'Kenyér és bor: új versek'
+url: http://www.gutenberg.org/ebooks/66179
